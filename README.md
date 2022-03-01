@@ -2,5 +2,5 @@
 #include<conio.h>
 int main()
 {
-printf("\n mcet");
+printf("\n cse mcet");
 }
